@@ -1,0 +1,21 @@
+{
+    "name": "DocPlanner",
+    "short_name": "DocPlanner",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#5bbad5",
+    "description": "Une application pour gérer vos rendez-vous médicaux.",
+    "icons": [
+      {
+        "src": "/logo.png",
+        "type": "img/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/img/logo.png",
+        "type": "img/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
